@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
